@@ -3,5 +3,5 @@ docutils==0.15.2
 Kivy==1.11.1
 olefile==0.46
 Pillow==8.1.1
-Pygments==2.5.2
+Pygments==2.7.4
 wincertstore==0.2
