@@ -1,4 +1,4 @@
-certifi==2019.11.28
+certifi==2022.12.7
 docutils==0.15.2
 Kivy==1.11.1
 olefile==0.46
